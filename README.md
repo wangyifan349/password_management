@@ -16,7 +16,7 @@
 2. 克隆此仓库：
 
    ```bash
-   git clone https://github.com/wangyifan349/password-management.git
+   git clone https://github.com/wangyifan349/password_management.git
    cd password-management
    ```
 
